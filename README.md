@@ -12,7 +12,7 @@ It provides insights into sales performance, profit trends, customer segments, s
 └── README.md # Documentation
 
 ## 📸 Dashboard Preview
-*(Add an image of your dashboard here – you can export dashboard as PNG from Power BI and upload it in `Report/` folder)*  
+Dashboard/Dashboard.png
 
 ## 🚀 Tools & Technologies
 - **Power BI Desktop** for data visualization  
